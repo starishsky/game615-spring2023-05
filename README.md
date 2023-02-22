@@ -10,4 +10,4 @@ When you eat a Steve, he explodes into Steve Particles.
 
 Pizza Steve by Stephen Myer [CC-BY] via Poly Pizza
 
-[Play it here!](https://starishsky.github.io/game615-spring2023-04/exercise05/play/)
+[Play it here!](https://starishsky.github.io/game615-spring2023-05/exercise05/play/)
